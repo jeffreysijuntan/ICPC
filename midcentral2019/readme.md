@@ -2,12 +2,12 @@
 
 completed problems [kattis](https://open.kattis.com/contests/dx8h7k)
 
-[Basketball One-on-One](./a.cpp)
+[Basketball One-on-One](./a.cpp) 
 
-[Dragon Ball I](./f.cpp)
+[Dragon Ball I](./f.cpp) Dijistra **use long long*
 
-[Farming Mars](./h.cpp)
+[Farming Mars](./h.cpp) DP + caching
 
-[Soft Passwords](./i.cpp)
+[Soft Passwords](./i.cpp) 
 
-[Umm Code](./l.py)
+[Umm Code](./l.py) string manipulation
